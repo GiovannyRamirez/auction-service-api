@@ -1,0 +1,8 @@
+{
+  "name": "auction-service",
+  "version": "1.0.0",
+  "description": "REST API AWS",
+  "main": "index.js",
+  "author": "Giovanny Ramirez",
+  "license": "MIT"
+}
